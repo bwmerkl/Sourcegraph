@@ -53,7 +53,7 @@ University of Oxford, _Oxford, United Kingdom_, **2009**
 *   **Mandarin Chinese**, _elementary proficiency_
 
 ## References
-*   Aileen Agricola, _Senior Digital Marketing Manager_, SourceGraph || aileen@sourcegraph.com 
+*   Aileen Agricola, _Senior Digital Marketing Manager_, Sourcegraph || aileen@sourcegraph.com 
 *   Michael Hunger, _Lead Developer Advocate_, Neo4j || michael.hunger@neo4j.com
 *   Deb Cameron, _Managing Editor_, Neo4j || deb.cameron@neo4j.com 
 *   Lisa Hatheway, _VP of Demand Generation_, Neo4j || lisa.hatheway@neo4j.com 
