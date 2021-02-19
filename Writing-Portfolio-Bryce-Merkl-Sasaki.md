@@ -43,20 +43,20 @@ _Neo4j Developer Blog_
 
 *   For this ebook, I worked with the Developer Relations team to pull together all their resources on the topic (RDBMS to Graph), and then I wrote the first draft myself for their review/approval with only light edits.
 *   Contact Michael Hunger at Neo4j at [michael.hunger@neo4j.com](mailto:michael.hunger@neo4j.com) if you need to verify I wrote this ebook.
-*   [PDF link here](https://github.com/bwmerkl/sourcegraph/blob/main/Definitive-Guide-Graph-Databases-for-RDBMS-Developer.pdf)
+*   [PDF link here](https://github.com/bwmerkl/sourcegraph/blob/main/Writing-Samples/Definitive-Guide-Graph-Databases-for-RDBMS-Developer.pdf)
 
 [_The Top 10 Use Cases of Graph Database Technology_](https://neo4j.com/whitepapers/top-ten-use-cases-graph-database-technology/)
 
 *   I wrote the original draft of this white paper in 2015 when it was only the “Top 5” use cases. I then supervised and edited the addition of the next five use cases that were blended into the original text. 
 *   This white paper has since been translated into [four other languages](https://neo4j.com/resources/top-use-cases-graph-databases-thanks/).
 *   Contact Jim Webber at Neo4j at [jim.webber@neo4j.com](mailto:jim.webber@neo4j.com) if you need to verify I wrote this white paper.
-*   [PDF link here](https://github.com/bwmerkl/sourcegraph/blob/main/Neo4j-Top-10-Use-Cases-EN-US.pdf)
+*   [PDF link here](https://github.com/bwmerkl/sourcegraph/blob/main/Writing-Samples/Neo4j-Top-10-Use-Cases-EN-US.pdf)
 
 [_Graph Databases for Beginners_](https://neo4j.com/whitepapers/graph-databases-beginners-ebook/)
 
 *   This ebook repurposed the “Graph Databases for Beginners” blog series into a PDF ebook (for gated downloads). 
 *   As with the blog series, I wrote the original core chapters of this ebook and then supervised and edited additions over the years (2015-2021).
-*   [PDF link here](https://github.com/bwmerkl/sourcegraph/blob/main/Graph-Databases-for-Beginners-EN-US.pdf)
+*   [PDF link here](https://github.com/bwmerkl/sourcegraph/blob/main/Writing-Samples/Graph-Databases-for-Beginners-EN-US.pdf)
 
 **Under My Leadership or Supervision**
 
