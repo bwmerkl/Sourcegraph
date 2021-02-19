@@ -61,4 +61,4 @@ University of Oxford, _Oxford, United Kingdom_, **2009**
 
 More references available upon request.
 
-Visit my extended resume on [LinkedIn](https://www.linkedin.com/in/bwmerkl/) and browse my writing portfolio on [GitHub](LINK HERE).
+Visit my extended resume on [LinkedIn](https://www.linkedin.com/in/bwmerkl/) and browse my writing portfolio on [GitHub](https://github.com/bwmerkl/sourcegraph/blob/main/Writing-Portfolio-Bryce-Merkl-Sasaki.md).
