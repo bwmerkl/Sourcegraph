@@ -16,7 +16,7 @@ Neo4j, Inc., _San Mateo, CA / Remote_, **2015 - 2021**
 *   Worked at every level of the content stack: copywriting, proofreading, editing, managing vendors, scheduling posts, coaching, hiring, and long-term strategy and planning
 *   Led the editorial direction and processes for the Neo4j Blog and Neo4j Developer Blog
 *   Created a ticketing and project management system for content and social requests 
-*   Wrote, edited, and then later managed and optimized Neo4j’s library of content assets, including ebooks, developer guides, whitepapers, case studies, data sheets and more
+*   Wrote, edited, and then later managed and optimized Neo4j’s library of content assets, including ebooks, developer guides, white papers, case studies, data sheets and more
 *   Ghost wrote blog posts and other articles in the voice and tone of the CEO 
 *   Hosted writing and storytelling workshops for marketing colleagues
 *   Starting title: Content Marketing Manager 
@@ -24,7 +24,7 @@ Neo4j, Inc., _San Mateo, CA / Remote_, **2015 - 2021**
 ### Copy Architect 
 Square 2 Marketing, _Philadelphia, Pennsylvania_, **2013 - 2015**
 *   Crafted content strategy for B2B and B2C clients, including editorial calendars, brand voice and tone, keyword research, SEO strategy, and marketing personas
-*   Drafted tactical copy including whitepapers, ebooks, web copy, emails, press releases, case studies, blog posts, infographics, and PPC ads
+*   Drafted tactical copy including white papers, ebooks, web copy, emails, press releases, case studies, blog posts, infographics, and PPC ads
 *   Used HubSpot to analyze content marketing and social media performance
 
 ### Freelance Editor/Writer
