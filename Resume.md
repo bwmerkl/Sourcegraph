@@ -1,12 +1,8 @@
 
 # Bryce W. Merkl Sasaki
-
 460/7 Intharakheeree Road, Mae Sot, Tak, 63110, Thailand
-
 2043 Ladera Drive, Lincoln, CA 95648, USA
-
 +66 97-974-5717 (Thailand) || +1 (720) 257-4817 (U.S.)
-
 bwmerkl@gmail.com
 
 ## Experience
