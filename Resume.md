@@ -18,7 +18,8 @@ Neo4j, Inc., _San Mateo, CA / Remote_, **2015 - 2021**
 *   Created a ticketing and project management system for content and social requests 
 *   Wrote, edited, and then later managed and optimized Neo4j’s library of content assets, including ebooks, developer guides, whitepapers, case studies, data sheets and more
 *   Ghost wrote blog posts and other articles in the voice and tone of the CEO 
-*   Hosted writing and storytelling workshops for marketing colleagues 
+*   Hosted writing and storytelling workshops for marketing colleagues
+*   Starting title: Content Marketing Manager 
 
 ### Copy Architect 
 Square 2 Marketing, _Philadelphia, Pennsylvania_, **2013 - 2015**
