@@ -96,8 +96,6 @@ If you just really needed a writing sample of mine before my time at Neo4j (pre-
 
 Here are two articles I wrote for the marketing agency where I used to work in Philadelphia:
 
-
-
 *   [Forget B2B Or B2C: How Inbound Marketing Is H2H (And Why It Matters)](https://www.square2marketing.com/blog/bid/182686/Forget-B2B-Or-B2C-How-Inbound-Marketing-Is-H2H-And-Why-It-Matters)
 *   [Why Buyer Personas Are Essential To An H2H Marketing Strategy](https://www.square2marketing.com/blog/why-buyer-personas-are-essential-to-an-h2h-marketing-strategy)
 *   After I left the agency, my byline was redirected to the company CEO. 
@@ -114,13 +112,10 @@ Big Sky Associates is a consulting firm for federal agencies and large commercia
 
 ### Freelance Clients
 
-Here are two freelance clients who are still using my work from before 2013. I wrote all of the copy on the main pages of both of these websites:
-
-
+Here is one freelance client who still uses my work from before 2013. I wrote all of the copy on this website:
 
 *   [Capitol Leasing & Financing Service](https://www.capitoleasing.com/)
-*   [Faith Bible Chapel South](http://fbcsouth.org/)
 
-And here’s my [full client writing portfolio from 2008-2015](https://www.pinterest.com/bwmerkl/), but be warned: many of these links have long since broken and there be dragons (probably?).
+And here’s my [full client writing portfolio from 2008-2015](https://www.pinterest.com/bwmerkl/), but be warned: many of these links have long since broken and there be dragons (probably).
 
 Looking for anything else in particular? Email me at [bwmerkl@gmail.com](mailto:bwmerkl@gmail.com) and I might be able to dig up some dusty drafts from the archives.
