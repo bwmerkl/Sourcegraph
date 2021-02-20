@@ -18,6 +18,7 @@ Let me know if you’d like to talk further,
 
 All the best,
 
+
 --Bryce Merkl Sasaki
 
 [Resume](https://github.com/bwmerkl/Sourcegraph/blob/main/Resume-Bryce-Merkl-Sasaki.md)
