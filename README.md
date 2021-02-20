@@ -19,5 +19,9 @@ Let me know if you’d like to talk further,
 All the best,
 
 --Bryce Merkl Sasaki
+
+[Resume](https://github.com/bwmerkl/Sourcegraph/blob/main/Resume-Bryce-Merkl-Sasaki.md)
+
 [LinkedIn](https://www.linkedin.com/in/bwmerkl/)
-[GitHub](https://github.com/bwmerkl/Sourcegraph)
+
+[Writing Portfolio](https://github.com/bwmerkl/Sourcegraph/blob/main/Writing-Portfolio-Bryce-Merkl-Sasaki.md)
