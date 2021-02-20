@@ -1,4 +1,4 @@
-#Sourcegraph application
+# Sourcegraph Cover Letter
 
 2021-02-19
 
